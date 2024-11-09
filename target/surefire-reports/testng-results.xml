@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-08T22:55:03 IST" name="Suite" finished-at="2024-11-08T22:55:03 IST" duration-ms="75">
+    <groups>
+    </groups>
+    <test started-at="2024-11-08T22:55:03 IST" name="Test" finished-at="2024-11-08T22:55:03 IST" duration-ms="75">
+      <class name="mavenforjenkins.UITest">
+        <test-method signature="simpleTest()[pri:0, instance:mavenforjenkins.UITest@6ef888f6]" started-at="2024-11-08T22:55:03 IST" name="simpleTest" finished-at="2024-11-08T22:55:03 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTest -->
+      </class> <!-- mavenforjenkins.UITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
